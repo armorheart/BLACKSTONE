@@ -4,8 +4,8 @@
 	flag = ARCHIVIST
 	department_flag = SERFS
 	faction = "Station"
-	total_positions = 1
-	spawn_positions = 1
+	total_positions = 3
+	spawn_positions = 3
 	spells = list(/obj/effect/proc_holder/spell/invoked/projectile/fetch)
 	allowed_patrons = list("Noc")
 

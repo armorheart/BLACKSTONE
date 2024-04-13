@@ -3,8 +3,8 @@
 	flag = JESTER
 	department_flag = PEASANTS
 	faction = "Station"
-	total_positions = 2
-	spawn_positions = 3
+	total_positions = 6
+	spawn_positions = 6
 
 	allowed_sexes = list("female")
 	allowed_races = list("Humen",
